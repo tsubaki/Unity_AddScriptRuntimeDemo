@@ -3,7 +3,7 @@ AddScriptRuntime
 
 AssetBundleにDLLを含め、ランタイムでコンポーネントに追加する機能のデモです。iOSを始めとするJIT不可のプラットフォームでは動作しません。
 
-なお、「スクリプトをアタッチ済みのプレハブを読みたい」といった場合、別段特別な処理する事なく、AssetBundleにプレハブを含めれば読み込めます。
+なお、「スクリプトをアタッチ済みのプレハブを読みたい」といった場合、別段特別な処理する事なく、AssetBundleにプレハブを含めれば読み込めます。（Package/clock script with prefab.unity3d参考）
 
 ###デモ
 
